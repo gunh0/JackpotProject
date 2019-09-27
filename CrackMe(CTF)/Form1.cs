@@ -14,9 +14,9 @@ namespace CrackMe_CTF_
         {
             InitializeComponent();
         }
-        string passw0rd = "1234";
         private void Button1_Click(object sender, EventArgs e)
         {
+            string passw0rd = "1234";
             PWEncryption(textBox2.Text);
             if ((textBox1.Text == "Adm1n") && textBox2.Text == passw0rd)
             {
