@@ -26,12 +26,17 @@ namespace JackpotProj_WindowsFormsApp
             timer1.Stop();
         }
 
-        int input_data = 1111;
+        int input_data = 0;
         private void Timer1_Tick(object sender, EventArgs e)
         {
+            System.Threading.Thread.Sleep(100);
             SendKeys.Send(input_data.ToString());
+            System.Threading.Thread.Sleep(100);
             SendKeys.Send("{ENTER}");
+
+            label1.Text = input_data.ToString();
             input_data += 1;
         }
+      
     }
 }
