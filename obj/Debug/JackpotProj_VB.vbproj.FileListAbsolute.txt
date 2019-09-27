@@ -1,0 +1,12 @@
+D:\_Workspace\VisualStudio2019_Workspace\JackpotProj_VB\bin\Debug\JackpotProj_VB.exe.config
+D:\_Workspace\VisualStudio2019_Workspace\JackpotProj_VB\bin\Debug\JackpotProj_VB.exe
+D:\_Workspace\VisualStudio2019_Workspace\JackpotProj_VB\bin\Debug\JackpotProj_VB.pdb
+D:\_Workspace\VisualStudio2019_Workspace\JackpotProj_VB\bin\Debug\JackpotProj_VB.xml
+D:\_Workspace\VisualStudio2019_Workspace\JackpotProj_VB\obj\Debug\JackpotProj_VB.vbprojAssemblyReference.cache
+D:\_Workspace\VisualStudio2019_Workspace\JackpotProj_VB\obj\Debug\JackpotProj_VB.Resources.resources
+D:\_Workspace\VisualStudio2019_Workspace\JackpotProj_VB\obj\Debug\JackpotProj_VB.vbproj.GenerateResource.cache
+D:\_Workspace\VisualStudio2019_Workspace\JackpotProj_VB\obj\Debug\JackpotProj_VB.vbproj.CoreCompileInputs.cache
+D:\_Workspace\VisualStudio2019_Workspace\JackpotProj_VB\obj\Debug\JackpotProj_VB.exe
+D:\_Workspace\VisualStudio2019_Workspace\JackpotProj_VB\obj\Debug\JackpotProj_VB.xml
+D:\_Workspace\VisualStudio2019_Workspace\JackpotProj_VB\obj\Debug\JackpotProj_VB.pdb
+D:\_Workspace\VisualStudio2019_Workspace\JackpotProj_VB\obj\Debug\JackpotProj_VB.Form1.resources
