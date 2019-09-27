@@ -7,3 +7,4 @@ D:\_Workspace\VisualStudio2019_Workspace\JackpotProj\JackpotProj_WindowsFormsApp
 D:\_Workspace\VisualStudio2019_Workspace\JackpotProj\JackpotProj_WindowsFormsApp\obj\Release\JackpotProj_WindowsFormsApp.exe
 D:\_Workspace\VisualStudio2019_Workspace\JackpotProj\JackpotProj_WindowsFormsApp\obj\Release\JackpotProj_WindowsFormsApp.pdb
 D:\_Workspace\VisualStudio2019_Workspace\JackpotProj\JackpotProj_WindowsFormsApp\obj\Release\JackpotProj_WindowsFormsApp.csprojAssemblyReference.cache
+D:\_Workspace\VisualStudio2019_Workspace\JackpotProj\JackpotProj_WindowsFormsApp\bin\Release\JackpotProj_WindowsFormsApp.exe.config
