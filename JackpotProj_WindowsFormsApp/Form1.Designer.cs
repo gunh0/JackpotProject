@@ -36,6 +36,7 @@
             this.textBox1 = new System.Windows.Forms.TextBox();
             this.contextMenuStrip1 = new System.Windows.Forms.ContextMenuStrip(this.components);
             this.SuspendLayout();
+            
             // 
             // button1
             // 
@@ -46,6 +47,7 @@
             this.button1.Text = "Start";
             this.button1.UseVisualStyleBackColor = true;
             this.button1.Click += new System.EventHandler(this.Button1_Click);
+            
             // 
             // button2
             // 
@@ -56,10 +58,12 @@
             this.button2.Text = "Stop";
             this.button2.UseVisualStyleBackColor = true;
             this.button2.Click += new System.EventHandler(this.Button2_Click);
+            
             // 
             // timer1
             // 
             this.timer1.Tick += new System.EventHandler(this.Timer1_Tick);
+            
             // 
             // label1
             // 
@@ -69,6 +73,7 @@
             this.label1.Size = new System.Drawing.Size(49, 15);
             this.label1.TabIndex = 2;
             this.label1.Text = "Status";
+            
             // 
             // textBox1
             // 
@@ -78,12 +83,14 @@
             this.textBox1.Size = new System.Drawing.Size(276, 403);
             this.textBox1.TabIndex = 3;
             this.textBox1.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            
             // 
             // contextMenuStrip1
             // 
             this.contextMenuStrip1.ImageScalingSize = new System.Drawing.Size(20, 20);
             this.contextMenuStrip1.Name = "contextMenuStrip1";
             this.contextMenuStrip1.Size = new System.Drawing.Size(61, 4);
+            
             // 
             // Form1
             // 

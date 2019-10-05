@@ -6,3 +6,4 @@ D:\_Workspace\VisualStudio2019_Workspace\JackpotProj\CrackMe(CTF)\obj\Release\Cr
 D:\_Workspace\VisualStudio2019_Workspace\JackpotProj\CrackMe(CTF)\obj\Release\CrackMe(CTF).csproj.CoreCompileInputs.cache
 D:\_Workspace\VisualStudio2019_Workspace\JackpotProj\CrackMe(CTF)\obj\Release\CrackMe(CTF).exe
 D:\_Workspace\VisualStudio2019_Workspace\JackpotProj\CrackMe(CTF)\obj\Release\CrackMe(CTF).pdb
+D:\_Workspace\VisualStudio2019_Workspace\JackpotProj\CrackMe(CTF)\obj\Release\CrackMe(CTF).csprojAssemblyReference.cache
