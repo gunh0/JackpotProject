@@ -1,0 +1,9 @@
+D:\_Workspace\VisualStudio2019_Workspace\JackpotProj\CrackMe(CTF)\bin\Debug\CrackMe(CTF).exe
+D:\_Workspace\VisualStudio2019_Workspace\JackpotProj\CrackMe(CTF)\bin\Debug\CrackMe(CTF).pdb
+D:\_Workspace\VisualStudio2019_Workspace\JackpotProj\CrackMe(CTF)\obj\Debug\CrackMe(CTF).csprojAssemblyReference.cache
+D:\_Workspace\VisualStudio2019_Workspace\JackpotProj\CrackMe(CTF)\obj\Debug\CrackMe_CTF_.Form1.resources
+D:\_Workspace\VisualStudio2019_Workspace\JackpotProj\CrackMe(CTF)\obj\Debug\CrackMe_CTF_.Properties.Resources.resources
+D:\_Workspace\VisualStudio2019_Workspace\JackpotProj\CrackMe(CTF)\obj\Debug\CrackMe(CTF).csproj.GenerateResource.cache
+D:\_Workspace\VisualStudio2019_Workspace\JackpotProj\CrackMe(CTF)\obj\Debug\CrackMe(CTF).csproj.CoreCompileInputs.cache
+D:\_Workspace\VisualStudio2019_Workspace\JackpotProj\CrackMe(CTF)\obj\Debug\CrackMe(CTF).exe
+D:\_Workspace\VisualStudio2019_Workspace\JackpotProj\CrackMe(CTF)\obj\Debug\CrackMe(CTF).pdb
