@@ -1,20 +1,16 @@
-# *Brute* *Force* *Attack*
+### #1. *Brute* *Force* *Attack*
 
-### ENV : .NET Framework 4.0
+##### ENV : .NET Framework 4.0
 
+##### For Test : JackpotProj_VB
 
-
-### For Test : JackpotProj_VB
-
-
-
-### For REAL : JackpotProj_WindowsFormsApp
+##### For REAL : JackpotProj_WindowsFormsApp
 
 
 
 ---
 
-
+### #2. Team Internal CTF
 
 ### CrackME(CTF)
 
@@ -28,7 +24,5 @@
 
 ---
 
-
-
-### Windows System Programming
+### #3. Windows System Programming
 
