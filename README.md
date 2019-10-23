@@ -26,3 +26,10 @@
 
 ### #3. Windows System Programming
 
+---
+
+https://github.com/000JustMe/PewCrypt
+
+https://github.com/mauri870/ransomware
+
+https://github.com/tarcisio-marinho/GonnaCry
