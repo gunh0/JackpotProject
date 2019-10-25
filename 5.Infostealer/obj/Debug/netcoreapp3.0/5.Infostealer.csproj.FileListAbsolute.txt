@@ -1,3 +1,0 @@
-D:\_Workspace\BoB_JackpotProj\5.Infostealer\obj\Debug\netcoreapp3.0\5.Infostealer.csprojAssemblyReference.cache
-D:\_Workspace\BoB_JackpotProj\5.Infostealer\obj\Debug\netcoreapp3.0\5.Infostealer.AssemblyInfoInputs.cache
-D:\_Workspace\BoB_JackpotProj\5.Infostealer\obj\Debug\netcoreapp3.0\5.Infostealer.AssemblyInfo.cs

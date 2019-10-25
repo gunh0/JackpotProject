@@ -1,0 +1,8 @@
+P:\Google Drive\@ Hacking Point of Sale\Code\HackingPOS\Scrapers\Bin\Release\HackingPOS.Scrapers.Common.dll
+P:\Google Drive\@ Hacking Point of Sale\Code\HackingPOS\Scrapers\Common\obj\Release\HackingPOS.Scrapers.Common.dll
+C:\Users\gunho\Desktop\pos-hacking\Source Code for ch05 and ch06\Scrapers\Bin\Release\HackingPOS.Scrapers.Common.dll
+C:\Users\gunho\Desktop\pos-hacking\Source Code for ch05 and ch06\Scrapers\Common\obj\Release\Common.csprojAssemblyReference.cache
+C:\Users\gunho\Desktop\pos-hacking\Source Code for ch05 and ch06\Scrapers\Common\obj\Release\HackingPOS.Scrapers.Common.dll
+D:\_Workspace\BoB_JackpotProj\5.InfoStealer\Bin\Release\HackingPOS.Scrapers.Common.dll
+D:\_Workspace\BoB_JackpotProj\5.InfoStealer\Common\obj\Release\Common.csprojAssemblyReference.cache
+D:\_Workspace\BoB_JackpotProj\5.InfoStealer\Common\obj\Release\HackingPOS.Scrapers.Common.dll

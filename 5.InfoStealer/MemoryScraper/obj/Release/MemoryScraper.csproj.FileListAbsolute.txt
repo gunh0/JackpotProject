@@ -1,0 +1,14 @@
+C:\Users\gunho\Desktop\pos-hacking\Source Code for ch05 and ch06\Scrapers\bin\Release\MemoryScraper.exe
+C:\Users\gunho\Desktop\pos-hacking\Source Code for ch05 and ch06\Scrapers\MemoryScraper\obj\Release\MemoryScraper.csprojAssemblyReference.cache
+C:\Users\gunho\Desktop\pos-hacking\Source Code for ch05 and ch06\Scrapers\MemoryScraper\obj\Release\HackingPOS.Scrapers.MemoryScraper.MemoryScraperForm.resources
+C:\Users\gunho\Desktop\pos-hacking\Source Code for ch05 and ch06\Scrapers\MemoryScraper\obj\Release\HackingPOS.Scrapers.MemoryScraper.Properties.Resources.resources
+C:\Users\gunho\Desktop\pos-hacking\Source Code for ch05 and ch06\Scrapers\MemoryScraper\obj\Release\MemoryScraper.csproj.GenerateResource.cache
+C:\Users\gunho\Desktop\pos-hacking\Source Code for ch05 and ch06\Scrapers\MemoryScraper\obj\Release\MemoryScraper.csproj.CopyComplete
+C:\Users\gunho\Desktop\pos-hacking\Source Code for ch05 and ch06\Scrapers\MemoryScraper\obj\Release\MemoryScraper.exe
+D:\_Workspace\BoB_JackpotProj\5.InfoStealer\bin\Release\MemoryScraper.exe
+D:\_Workspace\BoB_JackpotProj\5.InfoStealer\MemoryScraper\obj\Release\MemoryScraper.csprojAssemblyReference.cache
+D:\_Workspace\BoB_JackpotProj\5.InfoStealer\MemoryScraper\obj\Release\HackingPOS.Scrapers.MemoryScraper.MemoryScraperForm.resources
+D:\_Workspace\BoB_JackpotProj\5.InfoStealer\MemoryScraper\obj\Release\HackingPOS.Scrapers.MemoryScraper.Properties.Resources.resources
+D:\_Workspace\BoB_JackpotProj\5.InfoStealer\MemoryScraper\obj\Release\MemoryScraper.csproj.GenerateResource.cache
+D:\_Workspace\BoB_JackpotProj\5.InfoStealer\MemoryScraper\obj\Release\MemoryScraper.csproj.CopyComplete
+D:\_Workspace\BoB_JackpotProj\5.InfoStealer\MemoryScraper\obj\Release\MemoryScraper.exe
