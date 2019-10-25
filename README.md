@@ -37,3 +37,8 @@ https://github.com/tarcisio-marinho/GonnaCry
 ---
 
 ### #5. Infostealer
+
+---
+
+### #6. DLL Injection
+
