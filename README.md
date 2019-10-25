@@ -37,6 +37,3 @@ https://github.com/tarcisio-marinho/GonnaCry
 ---
 
 ### #5. Infostealer
-
-
-
