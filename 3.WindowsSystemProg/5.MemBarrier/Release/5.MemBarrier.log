@@ -1,0 +1,8 @@
+﻿  MemBarrier.cpp
+  stdafx.cpp
+D:\_Workspace\BoB_JackpotProj\3.WindowsSystemProg\5.MemBarrier\MemBarrier.cpp(40,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 14 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  5.MemBarrier.vcxproj -> D:\_Workspace\BoB_JackpotProj\3.WindowsSystemProg\Release\5.MemBarrier.exe
