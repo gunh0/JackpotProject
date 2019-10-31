@@ -45,7 +45,7 @@ DWORD WINAPI ThreadProc(PVOID pParam)
 	cout << " ==> Thread " << dwCurId << " Enter : " << g_nValue << endl;
 	g_nValue++;
 	cout << "  <= Thread " << dwCurId << " Leave : " << g_nValue << endl;
-	
+
 	ReleaseLock(g_lCSSign);	// <- 공유자원 사용 완료 통지
 
 	return 0;
