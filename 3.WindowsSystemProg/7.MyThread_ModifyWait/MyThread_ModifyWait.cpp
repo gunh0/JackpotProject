@@ -38,6 +38,13 @@ public:
 	{
 		m_bExit = true;
 		WaitForSingleObject(m_hThread, INFINITE);
+		/*
+		스레드 핸들에 대해 WaitForSingleObject 함수를 호출할 때 타임아웃 값을 0으로 지정하면?
+		WaitForSingleObject로부터 바로 리턴되는데, 리턴값이 WAIT_OBJECT_0이면 시그널 상태임을 의미하므로
+		m_hThread에 해당하는 스레드는 종료되었음을 알 수 있다. (단순히 해당 커널 객체의 신호 상태를 체크한다는 의미)
+		반대로 리턴값이 WAIT_TIMEOUT, 즉 타임아웃이 발생한 경우라면 해당 스레드는 넌시그널 상태임을 의미하므로
+		여전히 실행 중이라는 것을 알 수 있다.
+		*/
 	}
 };
 
