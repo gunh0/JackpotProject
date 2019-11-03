@@ -1,0 +1,8 @@
+﻿  MyThread_ModifyWait.cpp
+  stdafx.cpp
+D:\_Workspace\BoB_JackpotProj\3.WindowsSystemProg\7.MyThread_ModifyWait\MyThread_ModifyWait.cpp(82,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 23 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  7.MyThread_ModifyWait.vcxproj -> D:\_Workspace\BoB_JackpotProj\3.WindowsSystemProg\Release\7.MyThread_ModifyWait.exe
