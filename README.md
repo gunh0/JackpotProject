@@ -26,7 +26,11 @@
 
 ### #3. Windows System Programming
 
+
+
 ---
+
+### #4. Malware
 
 https://github.com/000JustMe/PewCrypt
 
@@ -34,9 +38,15 @@ https://github.com/mauri870/ransomware
 
 https://github.com/tarcisio-marinho/GonnaCry
 
+https://github.com/fabrimagic72/malware-samples/tree/master/Ransomware
+
+
+
 ---
 
 ### #5. Infostealer
+
+
 
 ---
 
