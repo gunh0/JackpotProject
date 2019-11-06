@@ -52,3 +52,9 @@ https://github.com/fabrimagic72/malware-samples/tree/master/Ransomware
 
 ### #6. DLL Injection
 
+
+
+---
+
+### #7. Windows System Hacking
+
