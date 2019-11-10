@@ -3,7 +3,6 @@
 #include "iostream"
 using namespace std;
 
-
 class MyClass
 {
 	static LONG ExpFilter(LPEXCEPTION_POINTERS pEx);
