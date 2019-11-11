@@ -1,0 +1,8 @@
+﻿  MutexTest.cpp
+  stdafx.cpp
+D:\_Workspace\BoB_JackpotProj\3.WindowsSystemProg\9.MutexTest\MutexTest.cpp(34,1): warning C4326: return type of 'wmain' should be 'int' instead of 'void'
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 13 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  9.MutexTest.vcxproj -> D:\_Workspace\BoB_JackpotProj\3.WindowsSystemProg\Release\9.MutexTest.exe
