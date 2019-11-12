@@ -21,6 +21,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "8.WaitMultiThreads", "8.Wai
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "9.MutexTest", "9.MutexTest\9.MutexTest.vcxproj", "{5E68C2A8-481B-4728-B3E2-44BF573AEC09}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "10.MutexNoti", "10.MutexNoti\10.MutexNoti.vcxproj", "{4CB41052-31A0-49A8-BB94-9F2C05CCA236}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -101,6 +103,14 @@ Global
 		{5E68C2A8-481B-4728-B3E2-44BF573AEC09}.Release|x64.Build.0 = Release|x64
 		{5E68C2A8-481B-4728-B3E2-44BF573AEC09}.Release|x86.ActiveCfg = Release|Win32
 		{5E68C2A8-481B-4728-B3E2-44BF573AEC09}.Release|x86.Build.0 = Release|Win32
+		{4CB41052-31A0-49A8-BB94-9F2C05CCA236}.Debug|x64.ActiveCfg = Debug|x64
+		{4CB41052-31A0-49A8-BB94-9F2C05CCA236}.Debug|x64.Build.0 = Debug|x64
+		{4CB41052-31A0-49A8-BB94-9F2C05CCA236}.Debug|x86.ActiveCfg = Debug|Win32
+		{4CB41052-31A0-49A8-BB94-9F2C05CCA236}.Debug|x86.Build.0 = Debug|Win32
+		{4CB41052-31A0-49A8-BB94-9F2C05CCA236}.Release|x64.ActiveCfg = Release|x64
+		{4CB41052-31A0-49A8-BB94-9F2C05CCA236}.Release|x64.Build.0 = Release|x64
+		{4CB41052-31A0-49A8-BB94-9F2C05CCA236}.Release|x86.ActiveCfg = Release|Win32
+		{4CB41052-31A0-49A8-BB94-9F2C05CCA236}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
