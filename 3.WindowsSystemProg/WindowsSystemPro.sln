@@ -7,7 +7,7 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1.CreateThread", "WindowsSy
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "2.ThreadExcept", "2.ThreadExcept\2.ThreadExcept.vcxproj", "{9EE707DB-C4FA-4F99-9620-3113A81AD939}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "3.MyThread", "3.MyThread\3.MyThread.vcxproj", "{C44C5B95-30D5-4575-B38C-8AD6349EC949}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "3.MyThread(1)", "3.MyThread\3.MyThread.vcxproj", "{C44C5B95-30D5-4575-B38C-8AD6349EC949}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "4.InterLock", "4.InterLock\4.InterLock.vcxproj", "{CC8EB88D-AAC1-4E86-AFB4-D53DB0493F90}"
 EndProject
@@ -15,7 +15,7 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "5.MemBarrier", "5.MemBarrie
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "6.WaitThread", "6.WaitThread\6.WaitThread.vcxproj", "{3F009CA3-AED0-42D6-B96F-340096917FAE}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "7.MyThread_ModifyWait", "7.MyThread_ModifyWait\7.MyThread_ModifyWait.vcxproj", "{2BFF5BB5-F26C-4DAA-9149-7EBB11A80B63}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "7.MyThread(2)_ModifyWait", "7.MyThread_ModifyWait\7.MyThread_ModifyWait.vcxproj", "{2BFF5BB5-F26C-4DAA-9149-7EBB11A80B63}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "8.WaitMultiThreads", "8.WaitMultiThreads\8.WaitMultiThreads.vcxproj", "{5227C7B7-2BFC-4AD4-919B-489BEE8F9DF1}"
 EndProject
@@ -30,6 +30,8 @@ EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "13.WQSemaphore", "13.WQSemaphore\13.WQSemaphore.vcxproj", "{73657BF5-5572-43FE-B6C3-99DD6AAC3C2A}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "14.ExitWithEvent", "14.ExitWithEvent\14.ExitWithEvent.vcxproj", "{7484A18F-CF27-496A-ADCC-A5279E2A8697}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "15.MyThread(3)_ModifyExit", "15.MyThread(3)_ModifyExit\15.MyThread(3)_ModifyExit.vcxproj", "{DD432EA1-D783-44DB-A94B-2AC19726988E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -151,6 +153,14 @@ Global
 		{7484A18F-CF27-496A-ADCC-A5279E2A8697}.Release|x64.Build.0 = Release|x64
 		{7484A18F-CF27-496A-ADCC-A5279E2A8697}.Release|x86.ActiveCfg = Release|Win32
 		{7484A18F-CF27-496A-ADCC-A5279E2A8697}.Release|x86.Build.0 = Release|Win32
+		{DD432EA1-D783-44DB-A94B-2AC19726988E}.Debug|x64.ActiveCfg = Debug|x64
+		{DD432EA1-D783-44DB-A94B-2AC19726988E}.Debug|x64.Build.0 = Debug|x64
+		{DD432EA1-D783-44DB-A94B-2AC19726988E}.Debug|x86.ActiveCfg = Debug|Win32
+		{DD432EA1-D783-44DB-A94B-2AC19726988E}.Debug|x86.Build.0 = Debug|Win32
+		{DD432EA1-D783-44DB-A94B-2AC19726988E}.Release|x64.ActiveCfg = Release|x64
+		{DD432EA1-D783-44DB-A94B-2AC19726988E}.Release|x64.Build.0 = Release|x64
+		{DD432EA1-D783-44DB-A94B-2AC19726988E}.Release|x86.ActiveCfg = Release|Win32
+		{DD432EA1-D783-44DB-A94B-2AC19726988E}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
