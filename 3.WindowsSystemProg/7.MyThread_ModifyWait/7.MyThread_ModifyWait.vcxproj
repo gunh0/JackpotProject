@@ -23,7 +23,7 @@
     <ProjectGuid>{2BFF5BB5-F26C-4DAA-9149-7EBB11A80B63}</ProjectGuid>
     <RootNamespace>My7MyThreadModifyWait</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
-    <ProjectName>7.MyThread(2)_ModifyWait</ProjectName>
+    <ProjectName>07.MyThread(2)_ModifyWait</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">

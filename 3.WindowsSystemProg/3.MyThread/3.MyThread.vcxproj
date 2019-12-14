@@ -23,7 +23,7 @@
     <ProjectGuid>{C44C5B95-30D5-4575-B38C-8AD6349EC949}</ProjectGuid>
     <RootNamespace>My3MyThread</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
-    <ProjectName>3.MyThread(1)</ProjectName>
+    <ProjectName>03.MyThread(1)</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">

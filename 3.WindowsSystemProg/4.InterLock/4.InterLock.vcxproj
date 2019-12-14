@@ -23,6 +23,7 @@
     <ProjectGuid>{CC8EB88D-AAC1-4E86-AFB4-D53DB0493F90}</ProjectGuid>
     <RootNamespace>My4InterLock</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>04.InterLock</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">

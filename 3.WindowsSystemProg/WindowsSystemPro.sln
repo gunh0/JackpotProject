@@ -3,23 +3,23 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29306.81
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1.CreateThread", "WindowsSystemPro.vcxproj", "{8A5D1524-A518-445F-9B33-E5E484A114F1}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "01.CreateThread", "WindowsSystemPro.vcxproj", "{8A5D1524-A518-445F-9B33-E5E484A114F1}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "2.ThreadExcept", "2.ThreadExcept\2.ThreadExcept.vcxproj", "{9EE707DB-C4FA-4F99-9620-3113A81AD939}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "02.ThreadExcept", "2.ThreadExcept\2.ThreadExcept.vcxproj", "{9EE707DB-C4FA-4F99-9620-3113A81AD939}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "3.MyThread(1)", "3.MyThread\3.MyThread.vcxproj", "{C44C5B95-30D5-4575-B38C-8AD6349EC949}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "03.MyThread(1)", "3.MyThread\3.MyThread.vcxproj", "{C44C5B95-30D5-4575-B38C-8AD6349EC949}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "4.InterLock", "4.InterLock\4.InterLock.vcxproj", "{CC8EB88D-AAC1-4E86-AFB4-D53DB0493F90}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "04.InterLock", "4.InterLock\4.InterLock.vcxproj", "{CC8EB88D-AAC1-4E86-AFB4-D53DB0493F90}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "5.MemBarrier", "5.MemBarrier\5.MemBarrier.vcxproj", "{220A9402-AFB4-427B-8B6D-8FE157BBC939}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "05.MemBarrier", "5.MemBarrier\5.MemBarrier.vcxproj", "{220A9402-AFB4-427B-8B6D-8FE157BBC939}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "6.WaitThread", "6.WaitThread\6.WaitThread.vcxproj", "{3F009CA3-AED0-42D6-B96F-340096917FAE}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "06.WaitThread", "6.WaitThread\6.WaitThread.vcxproj", "{3F009CA3-AED0-42D6-B96F-340096917FAE}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "7.MyThread(2)_ModifyWait", "7.MyThread_ModifyWait\7.MyThread_ModifyWait.vcxproj", "{2BFF5BB5-F26C-4DAA-9149-7EBB11A80B63}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "07.MyThread(2)_ModifyWait", "7.MyThread_ModifyWait\7.MyThread_ModifyWait.vcxproj", "{2BFF5BB5-F26C-4DAA-9149-7EBB11A80B63}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "8.WaitMultiThreads", "8.WaitMultiThreads\8.WaitMultiThreads.vcxproj", "{5227C7B7-2BFC-4AD4-919B-489BEE8F9DF1}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "08.WaitMultiThreads", "8.WaitMultiThreads\8.WaitMultiThreads.vcxproj", "{5227C7B7-2BFC-4AD4-919B-489BEE8F9DF1}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "9.MutexTest", "9.MutexTest\9.MutexTest.vcxproj", "{5E68C2A8-481B-4728-B3E2-44BF573AEC09}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "09.MutexTest", "9.MutexTest\9.MutexTest.vcxproj", "{5E68C2A8-481B-4728-B3E2-44BF573AEC09}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "10.MutexNoti", "10.MutexNoti\10.MutexNoti.vcxproj", "{4CB41052-31A0-49A8-BB94-9F2C05CCA236}"
 EndProject
@@ -32,6 +32,8 @@ EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "14.ExitWithEvent", "14.ExitWithEvent\14.ExitWithEvent.vcxproj", "{7484A18F-CF27-496A-ADCC-A5279E2A8697}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "15.MyThread(3)_ModifyExit", "15.MyThread(3)_ModifyExit\15.MyThread(3)_ModifyExit.vcxproj", "{DD432EA1-D783-44DB-A94B-2AC19726988E}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "16.EventTest", "16.EventTest\16.EventTest.vcxproj", "{2B73C01C-5874-4A35-A8CE-821B528B084E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -161,6 +163,14 @@ Global
 		{DD432EA1-D783-44DB-A94B-2AC19726988E}.Release|x64.Build.0 = Release|x64
 		{DD432EA1-D783-44DB-A94B-2AC19726988E}.Release|x86.ActiveCfg = Release|Win32
 		{DD432EA1-D783-44DB-A94B-2AC19726988E}.Release|x86.Build.0 = Release|Win32
+		{2B73C01C-5874-4A35-A8CE-821B528B084E}.Debug|x64.ActiveCfg = Debug|x64
+		{2B73C01C-5874-4A35-A8CE-821B528B084E}.Debug|x64.Build.0 = Debug|x64
+		{2B73C01C-5874-4A35-A8CE-821B528B084E}.Debug|x86.ActiveCfg = Debug|Win32
+		{2B73C01C-5874-4A35-A8CE-821B528B084E}.Debug|x86.Build.0 = Debug|Win32
+		{2B73C01C-5874-4A35-A8CE-821B528B084E}.Release|x64.ActiveCfg = Release|x64
+		{2B73C01C-5874-4A35-A8CE-821B528B084E}.Release|x64.Build.0 = Release|x64
+		{2B73C01C-5874-4A35-A8CE-821B528B084E}.Release|x86.ActiveCfg = Release|Win32
+		{2B73C01C-5874-4A35-A8CE-821B528B084E}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

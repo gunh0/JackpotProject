@@ -23,6 +23,7 @@
     <ProjectGuid>{9EE707DB-C4FA-4F99-9620-3113A81AD939}</ProjectGuid>
     <RootNamespace>My2ThreadExcept</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>02.ThreadExcept</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
