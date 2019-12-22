@@ -37,6 +37,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "16.EventTest", "16.EventTes
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "17.MultiSyncWaits", "17.MultiSyncWaits\17.MultiSyncWaits.vcxproj", "{FB9118C7-CCCD-4AE4-A43E-A1E5041B94F2}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "18.EventNotify", "18.EventNotify\18.EventNotify.vcxproj", "{9A71071C-8CD3-4E68-B058-2B57D4AA36AE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -181,6 +183,14 @@ Global
 		{FB9118C7-CCCD-4AE4-A43E-A1E5041B94F2}.Release|x64.Build.0 = Release|x64
 		{FB9118C7-CCCD-4AE4-A43E-A1E5041B94F2}.Release|x86.ActiveCfg = Release|Win32
 		{FB9118C7-CCCD-4AE4-A43E-A1E5041B94F2}.Release|x86.Build.0 = Release|Win32
+		{9A71071C-8CD3-4E68-B058-2B57D4AA36AE}.Debug|x64.ActiveCfg = Debug|x64
+		{9A71071C-8CD3-4E68-B058-2B57D4AA36AE}.Debug|x64.Build.0 = Debug|x64
+		{9A71071C-8CD3-4E68-B058-2B57D4AA36AE}.Debug|x86.ActiveCfg = Debug|Win32
+		{9A71071C-8CD3-4E68-B058-2B57D4AA36AE}.Debug|x86.Build.0 = Debug|Win32
+		{9A71071C-8CD3-4E68-B058-2B57D4AA36AE}.Release|x64.ActiveCfg = Release|x64
+		{9A71071C-8CD3-4E68-B058-2B57D4AA36AE}.Release|x64.Build.0 = Release|x64
+		{9A71071C-8CD3-4E68-B058-2B57D4AA36AE}.Release|x86.ActiveCfg = Release|Win32
+		{9A71071C-8CD3-4E68-B058-2B57D4AA36AE}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
