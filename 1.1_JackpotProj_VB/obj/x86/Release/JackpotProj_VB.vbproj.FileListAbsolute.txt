@@ -21,3 +21,14 @@ D:\_Workspace\VisualStudio2019_Workspace\JackpotProj\JackpotProj_VB\obj\x86\Rele
 D:\_Workspace\VisualStudio2019_Workspace\JackpotProj\JackpotProj_VB\obj\x86\Release\JackpotProj_VB.exe
 D:\_Workspace\VisualStudio2019_Workspace\JackpotProj\JackpotProj_VB\obj\x86\Release\JackpotProj_VB.xml
 D:\_Workspace\VisualStudio2019_Workspace\JackpotProj\JackpotProj_VB\obj\x86\Release\JackpotProj_VB.pdb
+D:\_Workspace\BoB_JackpotProject\1.1_JackpotProj_VB\bin\x86\Release\JackpotProj_VB.exe.config
+D:\_Workspace\BoB_JackpotProject\1.1_JackpotProj_VB\bin\x86\Release\JackpotProj_VB.exe
+D:\_Workspace\BoB_JackpotProject\1.1_JackpotProj_VB\bin\x86\Release\JackpotProj_VB.pdb
+D:\_Workspace\BoB_JackpotProject\1.1_JackpotProj_VB\bin\x86\Release\JackpotProj_VB.xml
+D:\_Workspace\BoB_JackpotProject\1.1_JackpotProj_VB\obj\x86\Release\JackpotProj_VB.vbprojAssemblyReference.cache
+D:\_Workspace\BoB_JackpotProject\1.1_JackpotProj_VB\obj\x86\Release\JackpotProj_VB.Form1.resources
+D:\_Workspace\BoB_JackpotProject\1.1_JackpotProj_VB\obj\x86\Release\JackpotProj_VB.Resources.resources
+D:\_Workspace\BoB_JackpotProject\1.1_JackpotProj_VB\obj\x86\Release\JackpotProj_VB.vbproj.GenerateResource.cache
+D:\_Workspace\BoB_JackpotProject\1.1_JackpotProj_VB\obj\x86\Release\JackpotProj_VB.exe
+D:\_Workspace\BoB_JackpotProject\1.1_JackpotProj_VB\obj\x86\Release\JackpotProj_VB.xml
+D:\_Workspace\BoB_JackpotProject\1.1_JackpotProj_VB\obj\x86\Release\JackpotProj_VB.pdb
