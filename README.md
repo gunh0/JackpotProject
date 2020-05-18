@@ -6,41 +6,33 @@
 
 ### #1. *Brute* *Force* *Attack*
 
-##### ENV : .NET Framework 4.0
+> ##### ENV : .NET Framework 4.0
+>
+> ##### For Test : JackpotProj_VB
+>
+> ##### For REAL : JackpotProj_WindowsFormsApp
+>
 
-##### For Test : JackpotProj_VB
+### <br/>#2. Team Internal CTF
 
-##### For REAL : JackpotProj_WindowsFormsApp
-
-<br/>
-
----
-
-### #2. Team Internal CTF
-
-### CrackME(CTF)
-
-##### Team Internal CTF - 2019.09.29
-
-<br/>
-
-### CrackME2(CTF)
-
-##### Team Internal CTF - 2019.10.06
+> ### CrackME(CTF)
+>
+> ##### Team Internal CTF - 2019.09.29
+>
+> <br/>
+>
+> ### CrackME2(CTF)
+>
+> ##### Team Internal CTF - 2019.10.06
+>
 
 <br/>
-
----
 
 ### #3. Windows System Programming
 
-> Link
+> **Link : https://github.com/devgunho/Windows_System_Programming**
 
-<br/>
-
----
-
-### #4. Malware
+### <br/>#4. Malware
 
 > https://github.com/000JustMe/PewCrypt
 >
@@ -53,19 +45,13 @@
 
 <br/>
 
----
-
 ### #5. Infostealer
 
 <br/>
 
----
-
 ### #6. DLL Injection
 
 <br/>
-
----
 
 ### #7. Windows System Hacking
 

@@ -1,3 +1,0 @@
-﻿  shellcode_cmd.cpp
-D:\_Workspace\BoB_JackpotProj\7.WindowsSystemHack\WindowsSystemHacking\shellcode_cmd.cpp(4,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
-  WindowsSystemHacking.vcxproj -> D:\_Workspace\BoB_JackpotProj\7.WindowsSystemHack\WindowsSystemHacking\Debug\WindowsSystemHacking.exe
